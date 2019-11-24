@@ -196,3 +196,7 @@ a:hover, a:focus, a:active {
   border: 5px #963484 solid;
 }
 
+.canadaEh{
+  background-color: darkred !important;
+  background-image: url("../img/canadaEh.jpg");
+}
